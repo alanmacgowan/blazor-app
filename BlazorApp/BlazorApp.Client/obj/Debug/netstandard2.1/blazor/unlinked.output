@@ -30,10 +30,14 @@ C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.webassembly.runti
 C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.webassembly.runtime\3.2.0-preview3.20168.1\build\netstandard1.0\..\..\tools\dotnetwasm\bcl\System.Numerics.Vectors.dll
 C:\Users\alanm\.nuget\packages\system.text.encodings.web\4.7.0\lib\netstandard2.1\System.Text.Encodings.Web.dll
 C:\Users\alanm\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\3.1.3\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Shared\bin\Debug\netstandard2.1\BlazorApp.Shared.dll
-C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.ComponentsLibrary\bin\Debug\netstandard2.0\BlazorApp.ComponentsLibrary.dll
+C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.web\3.1.3\lib\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.forms\3.1.3\lib\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.webassembly.runtime\3.2.0-preview3.20168.1\build\netstandard1.0\..\..\tools\dotnetwasm\bcl\Facades\System.ComponentModel.Annotations.dll
+C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.webassembly.runtime\3.2.0-preview3.20168.1\build\netstandard1.0\..\..\tools\dotnetwasm\bcl\System.ComponentModel.DataAnnotations.dll
 C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components\3.1.3\lib\netstandard2.0\Microsoft.AspNetCore.Components.dll
 C:\Users\alanm\.nuget\packages\microsoft.extensions.logging.abstractions\3.1.3\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Shared\bin\Debug\netstandard2.1\BlazorApp.Shared.dll
+C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.ComponentsLibrary\bin\Debug\netstandard2.0\BlazorApp.ComponentsLibrary.dll
 C:\Users\alanm\.nuget\packages\microsoft.jsinterop\3.1.3\lib\netstandard2.0\Microsoft.JSInterop.dll
 C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.webassembly\3.2.0-preview3.20168.3\lib\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
 C:\Users\alanm\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.3\lib\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
@@ -46,10 +50,6 @@ C:\Users\alanm\.nuget\packages\microsoft.extensions.fileproviders.physical\3.1.2
 C:\Users\alanm\.nuget\packages\microsoft.extensions.filesystemglobbing\3.1.2\lib\netstandard2.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\alanm\.nuget\packages\microsoft.extensions.fileproviders.abstractions\3.1.2\lib\netstandard2.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\alanm\.nuget\packages\microsoft.jsinterop.webassembly\3.2.0-preview3.20168.3\lib\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.web\3.1.3\lib\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.forms\3.1.3\lib\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.webassembly.runtime\3.2.0-preview3.20168.1\build\netstandard1.0\..\..\tools\dotnetwasm\bcl\Facades\System.ComponentModel.Annotations.dll
-C:\Users\alanm\.nuget\packages\microsoft.aspnetcore.components.webassembly.runtime\3.2.0-preview3.20168.1\build\netstandard1.0\..\..\tools\dotnetwasm\bcl\System.ComponentModel.DataAnnotations.dll
 obj\Debug\netstandard2.1\BlazorApp.Client.pdb
 C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Shared\bin\Debug\netstandard2.1\BlazorApp.Shared.pdb
 C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.ComponentsLibrary\bin\Debug\netstandard2.0\BlazorApp.ComponentsLibrary.pdb

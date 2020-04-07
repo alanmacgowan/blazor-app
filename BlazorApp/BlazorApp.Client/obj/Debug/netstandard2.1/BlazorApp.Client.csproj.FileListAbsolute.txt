@@ -297,3 +297,8 @@ C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Client\obj\Debug\netstandard
 C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorApp.ComponentsLibrary.dll.gz.hash
 C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorApp.Shared.pdb.gz.hash
 C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorApp.ComponentsLibrary.pdb.gz.hash
+C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\ConfigurePizzaDialog.razor.g.cs
+C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Client\obj\Debug\netstandard2.1\Razor\Shared\ConfigurePizzaDialog.razor.g.cs
+C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\ConfiguredPizzaItem.razor.g.cs
+C:\CODE\ASP.NET CORE\blazor-app\BlazorApp\BlazorApp.Client\obj\Debug\netstandard2.1\Razor\Shared\ConfiguredPizzaItem.razor.g.cs
