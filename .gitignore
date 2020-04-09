@@ -14,3 +14,7 @@
 /BlazorApp/BlazorApp.Shared/bin/Debug/netstandard2.1
 /BlazorApp/BlazorApp.Shared/obj
 /BlazorApp/.vs/BlazorApp/DesignTimeBuild
+/BlazorApp/BlazorApp.Client/bin/Release/netstandard2.1
+/BlazorApp/BlazorApp.ComponentsLibrary/bin/Release/netstandard2.0
+/BlazorApp/BlazorApp.Server/bin/Release/netcoreapp3.1
+/BlazorApp/BlazorApp.Shared/bin/Release/netstandard2.1
